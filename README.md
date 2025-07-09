@@ -21,13 +21,14 @@ The dataset contains information about various cars models, including features s
 It includes both numerical and categorical variables, with some missing values handled during preprocessing. This data is used for exploring relationships between vehicle specifications and pricing.  
 
 ## ⌨️ Technologies and Libraries Used:
-- **Python**
 - **Jupyter Notebook**
+- **Python** with libraries:
   
   - Matplotlib  
   - Seaborn  
   - Plotly Express
-  - Numpy  
+  - Numpy
+  - WordCloud  
 
 ## 📦 Contents:
 
