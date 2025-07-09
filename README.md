@@ -18,20 +18,18 @@ The dataset contains information about various cars models, including features s
   - Wheelbase,
   - Length.  
 
-It includes both numerical and categorical variables, with some missing values handled during preprocessing.  
+It includes both numerical and categorical variables, with some missing values handled during preprocessing. This data is used for exploring relationships between vehicle specifications and pricing.  
 
-This data is used for exploring relationships between vehicle specifications and pricing.
-
-## Technologies and Libraries Used:
+## ⌨️ Technologies and Libraries Used:
 - **Python**
 - **Jupyter Notebook**
   
-- Matplotlib  
-- Seaborn  
-- Plotly Express
-- Numpy  
+  - Matplotlib  
+  - Seaborn  
+  - Plotly Express
+  - Numpy  
 
-## Contents
+## 📦 Contents:
 
 - 🧹 Data cleaning basics
 - 📊 Scatter plots & pair plots
@@ -41,7 +39,7 @@ This data is used for exploring relationships between vehicle specifications and
 
 ---
 
-### 📸 Here's a few screenshots of resulted plots  
+### 📸 Here's a few screenshots of resulted plots:  
 
 >> ![Scatter Pair Plot (Seaborn)](plots/seaborn_scatter_pairplot.png/)  
 *Scatter Pair Plot (Seaborn)*
