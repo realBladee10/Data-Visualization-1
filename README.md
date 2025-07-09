@@ -25,9 +25,11 @@ This data is used for exploring relationships between vehicle specifications and
 ## Technologies and Libraries Used:
 - **Python**
 - **Jupyter Notebook**
+  
 - Matplotlib  
 - Seaborn  
-- Plotly Express  
+- Plotly Express
+- Numpy  
 
 ## Contents
 
@@ -39,6 +41,27 @@ This data is used for exploring relationships between vehicle specifications and
 
 ---
 
-### 📸 Here's a few screenshots of resulted plots
+### 📸 Here's a few screenshots of resulted plots  
 
->> ![]()
+>> ![Scatter Pair Plot (Seaborn)](plots/seaborn_scatter_pairplot.png/)  
+*Scatter Pair Plot (Seaborn)*
+
+>> ![ScatterPlot (Plotly Express)](plots/scatterplot_plotly_express.png/)  
+*Scatterplot (Plotly Express)*  
+
+---
+
+>> ![Sample Histogram](plots/histogram1.png/)  
+*Sample histogram 1*  
+
+>> ![Sample Histogram](plots/histogram2.png/)  
+*Sample histogram 2*  
+
+---
+
+>> ![Correlation Matrix (Plotly Express)](plots/correlation_plotly_express.png/)  
+*Correlation Matrix (Plotly Express)*
+>> ![Correlation Matrix (Seaborn)](plots/correlation_seaborn.png/)  
+*Correlation Matrix (Seaborn)*
+
+---
