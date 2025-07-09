@@ -17,6 +17,6 @@
 
 ---
 
-## 📸 Here's a few screenshots of resulted plots
+### 📸 Here's a few screenshots of resulted plots
 
 >> ![]()
