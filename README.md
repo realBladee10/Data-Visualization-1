@@ -1,2 +1,22 @@
-# Data-Visualization-1
-A short training in Jupyter Notebook, aiming to remind me this environment, with basic data visualization plots  🤠
+# 📓 Short Data Visualization Training
+
+## Technologies and Libraries Used
+- **Python**
+- **Jupyter Notebook**
+- Matplotlib  
+- Seaborn  
+- Plotly Express  
+
+## Contents
+
+- Data organization basics  
+- Scatter plots & pair plots  
+- Correlation heatmaps  
+- Wordcloud visualization  
+- Analysis and a few example conclusions  
+
+---
+
+## 📸 Here's a few screenshots of resulted plots
+
+>> ![]()
